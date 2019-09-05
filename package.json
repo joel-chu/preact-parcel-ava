@@ -1,0 +1,12 @@
+{
+  "name": "preact-parcel",
+  "version": "1.0.0",
+  "description": "preact template with parcel for bundling and ava for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "keywords": ["preact", "parcel", "ava"],
+  "author": "Joel Chu <joelckchu@gmail.com>",
+  "license": "ISC"
+}
